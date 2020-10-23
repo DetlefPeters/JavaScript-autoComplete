@@ -22,6 +22,10 @@ https://goodies.pixabay.com/javascript/auto-complete/demo.html
 
 ## Changelog
 
+### Version 1.0.5 - 2020/10/23
+
+* Added clearCache function
+
 ### Version 1.0.4 - 2016/02/10
 
 * Included pull #6 and added offsetLeft/offsetTop as optional parameter for suggestions container.

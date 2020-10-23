@@ -208,6 +208,11 @@ var autoComplete = (function(){
                 that = null;
             }
         };
+
+		// clear cache method
+		this.clearCache = function() {
+			that.cache = {}
+		}
     }
     return autoComplete;
 })();
